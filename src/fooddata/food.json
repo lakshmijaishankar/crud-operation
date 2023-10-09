@@ -1,0 +1,132 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "foodName": "fresh tacos",
+      "price": 250,
+      "type": "Veg",
+      "rating": 7.5,
+      "pic": "https://img.freepik.com/free-photo/top-view-fresh-tacos-with-meat-organic-vegetables_23-2148614482.jpg?w=740&t=st=1672159753~exp=1672160353~hmac=fe0ad4e35ad6f4d601d3747e23114fb54d402fea47e3012dc277b7f75e635974"
+    },
+    {
+      "foodName": "chicken burger",
+      "id": 2,
+      "price": 90,
+      "type": "Non-Veg",
+      "rating": 7,
+      "pic": "https://img.freepik.com/free-photo/sandwich-with-chicken-burger-tomatoes-lettuce_2829-16577.jpg?w=740&t=st=1672159890~exp=1672160490~hmac=1b782554771a0fb6970d5f1901639dbd63af0787022b1e45c0a0faa38bf9b196"
+    },
+    {
+      "foodName": "indian mango drink",
+      "id": 3,
+      "price": 120,
+      "type": "Drink",
+      "rating": 7,
+      "pic": "https://img.freepik.com/free-photo/delicious-indian-mango-drink_23-2148734679.jpg?w=740&t=st=1672160008~exp=1672160608~hmac=b1e388991fadf4d0493ec178f44626c8e534e278dd0d8d4ee1154d2dd0f97461"
+    },
+    {
+      "foodName": "croissants with chocolate",
+      "id": 4,
+      "price": 50,
+      "type": "Sweet",
+      "rating": 6,
+      "pic": "https://img.freepik.com/free-photo/side-view-croissants-with-chocolate-white-plate-with-purple-flowers-background_176474-120128.jpg?w=740&t=st=1672160142~exp=1672160742~hmac=a5c68ad4a107346a8287ac016ea5fe4e3838b5c7f3029dd957cb6a9150a93d72"
+    },
+    {
+      "foodName": "club sandwich",
+      "id": 5,
+      "price": 100,
+      "type": "Veg",
+      "rating": 7.5,
+      "pic": "https://img.freepik.com/free-photo/top-view-club-sandwich-with-sauce-ketchup-mayonnaise-french-fries-wooden-serving-board-dark-stone-background_176474-3324.jpg?w=740&t=st=1672160258~exp=1672160858~hmac=648f7cb67d7cd1c58210b76f4a71a8115a8e64089c1eae0b30ad9d37491df0a2"
+    },
+    {
+      "foodName": "fried chicken",
+      "id": 6,
+      "price": 250,
+      "type": "Non-Veg",
+      "rating": 9,
+      "pic": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-sauce-cutlery_23-2148646625.jpg?w=740&t=st=1672160313~exp=1672160913~hmac=1ab6fec2b461ab9b0df77c4fc0e4e66a2040582ac93e33f9ed44f8b425532bf6"
+    },
+    {
+      "foodName": "kebab with tomato ",
+      "id": 7,
+      "price": 200,
+      "type": "Non-Veg",
+      "rating": 8,
+      "pic": "https://img.freepik.com/free-photo/side-view-lule-kebab-with-tomato-paper-ayran-hand-adds-spices-serving-board_176474-3141.jpg?w=740&t=st=1672160376~exp=1672160976~hmac=6e91de1c120fcbf25fea4b0fb6160e903de3ba654464c55a1582cfcb93d82530"
+    },
+    {
+      "foodName": "cake with strawberry",
+      "id": 9,
+      "price": 70,
+      "type": "Sweet",
+      "rating": 8,
+      "pic": "https://img.freepik.com/free-photo/piece-cake-with-strawberry-crumbs-cup-tea-plate_176474-2975.jpg?w=740&t=st=1672160560~exp=1672161160~hmac=7614c587fc178a538df9d64fa6d829fd7ee5f67d456f0fddd6a7a222f0560b9e"
+    },
+    {
+      "foodName": "shish kebab",
+      "id": 10,
+      "price": 150,
+      "type": "Non-Veg",
+      "rating": 9,
+      "pic": "https://img.freepik.com/free-photo/side-view-shish-kebab-skewers-with-tomato-paper-ayran-white-plate_176474-3220.jpg?w=740&t=st=1672160634~exp=1672161234~hmac=b6f0cbbd37278e14c01b8e2d5d91715c549e93c01fee76fc2ca74bff02071a73"
+    },
+    {
+      "foodName": "pizza",
+      "id": 11,
+      "price": 180,
+      "type": "Veg",
+      "rating": 7.5,
+      "pic": "https://img.freepik.com/free-photo/side-view-pizza-with-chopped-pepper-board-cookware_176474-3183.jpg?w=740&t=st=1672160874~exp=1672161474~hmac=badedb8e235bbecebd83d13bd51cbab39ed08799c17b69ddf022721061aeb03e"
+    },
+    {
+      "foodName": "Samosa",
+      "id": 12,
+      "price": 20,
+      "type": "Veg",
+      "rating": 7.5,
+      "pic": "https://img.freepik.com/free-photo/close-up-indian-patisserie-products-with-chocolate_23-2148295023.jpg?w=740&t=st=1672160966~exp=1672161566~hmac=29cb788c5e9692416cf6c1d4a9d7b110e13cde1413e9826e5f2fe2b4c1bf9c29"
+    },
+    {
+      "foodName": "Daal Rice",
+      "id": 13,
+      "price": 75,
+      "type": "Veg",
+      "rating": 7,
+      "pic": "https://img.freepik.com/free-photo/top-view-pakistan-food-arrangement_23-2148821544.jpg?w=740&t=st=1672161063~exp=1672161663~hmac=4284679764c67addea8a62ba309c7ee84efa72543f0dd8a886707cb4ec51f1a1"
+    },
+    {
+      "foodName": "fresh boiled rice",
+      "id": 14,
+      "price": 120,
+      "type": "Non-Veg",
+      "rating": 7,
+      "pic": "https://img.freepik.com/free-photo/close-up-fresh-boiled-rice-basil-leaves-fried-chicken-bowl-with-wooden-spoon_23-2148097286.jpg?w=740&t=st=1672161118~exp=1672161718~hmac=361c98d4751134732f42899f326ec7589b718e34e54b556e86f485988b685583"
+    },
+    {
+      "foodName": "Donuts",
+      "id": 15,
+      "price": 50,
+      "type": "Veg",
+      "rating": 6.5,
+      "pic": "https://img.freepik.com/free-photo/close-up-glazed-donuts_23-2148628338.jpg?w=740&t=st=1672161373~exp=1672161973~hmac=be2359a70dc6cbd1a0aa7386ecd1f51635468a1863daa0fa8a42944462baa555"
+    },
+    {
+      "foodName": "waffle cones Ice Cream",
+      "id": 16,
+      "price": 120,
+      "type": "Sweet",
+      "rating": 9,
+      "pic": "https://img.freepik.com/free-photo/side-view-waffle-cones-with-chocolate-ice-cream-vanilla-ice-cream-chocolate-chips-rag-napkins_176474-3250.jpg?w=740&t=st=1672161467~exp=1672162067~hmac=17dc0558c89f56c4c0d99d19d29a34bc7e7ed7c9161d0afd98a09d85047f4f8e"
+    },
+    {
+      "foodName": " coconut ladoo",
+      "id": 17,
+      "price": 120,
+      "type": "Sweet",
+      "rating": 7,
+      "pic": "https://img.freepik.com/free-photo/delicious-coconut-candy-view_23-2148751864.jpg?w=740&t=st=1672161579~exp=1672162179~hmac=a727436bfd087b50cd7df545c2da0ef382cab457db2dedaf45c7aefeeff5a2c2"
+    }
+  ]
+}

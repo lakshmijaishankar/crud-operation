@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav 
+{
+    background-color: #0d6efd !important;
+    /* height: 75px !important; */
+    width: 97% !important;
+    margin: 3px auto !important;
+    border-radius: 5px !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1 !important;
+}
+.img img
+{
+    height:60px;
+    width: 70px;
+}
+nav .img 
+{
+    width: 60% !important;
+    height: 65px !important;
+}
+nav .img .input 
+{
+    width: 300px !important;
+    position: relative !important;
+}
+nav .img .input i 
+{
+    position: absolute;
+    right: 15px;
+    font-size: 23px;
+    top: 11px;
+    color: black;
+}
+.img input
+{
+    width: 95%;
+    border: 1px solid white;
+    outline: none;
+    border-radius: 5px;
+}
+nav .orders 
+{
+    font-size: 25px !important;
+    font-weight: 100 !important;
+}
+ul li a
+{
+    color: white !important;
+}
+nav li a:hover 
+{
+    font-weight: 500;
+}

@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fooddetails
+{
+    min-height:70vh !important;
+    margin: 20px auto !important;
+    width: 80% !important;
+}
